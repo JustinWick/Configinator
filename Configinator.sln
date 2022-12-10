@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Configinator", "Configinator\Configinator.fsproj", "{38423C63-3474-4AEA-AAF4-D8AEE8123E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38423C63-3474-4AEA-AAF4-D8AEE8123E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38423C63-3474-4AEA-AAF4-D8AEE8123E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38423C63-3474-4AEA-AAF4-D8AEE8123E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38423C63-3474-4AEA-AAF4-D8AEE8123E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

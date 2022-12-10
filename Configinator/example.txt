@@ -1,0 +1,14 @@
+﻿
+exampleString = hey, how are ya!
+exampleInt    = 42
+exampleFloat  = 69.420 # Number chosen at random, guaranteed to be fair
+
+otherString = Whale hello there!
+
+# Rogue comment ahoy!
+
+notAnEntry
+
+
+
+
